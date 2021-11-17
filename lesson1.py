@@ -3,3 +3,7 @@
 print("hello world")
 print()
 
+#ファイル/ライブラリの読み込み
+import discord
+#import ○○
+

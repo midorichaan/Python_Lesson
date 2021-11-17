@@ -28,7 +28,8 @@ else
 
 try:
     #処理
-except:
+except Exception as exc:
+    raise exc
     #エラー処理
 else:
     #処理
@@ -44,10 +45,24 @@ or
 is
 pass
 import
-raise
 
-global
-lambda
-nonlocal
+raise Exception("a is not b")
 with
+
+global bot
+nonlocal
+
 yield
+
+def myfunc():
+    yield 'Hello'
+
+["Hello"]
+
+
+def test():
+    return 1
+test()
+
+test = lambda: 1
+test()

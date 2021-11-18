@@ -25,6 +25,7 @@ import library
 print("hello world") #コメント
 #コメント
 
+
 #関数
 """
 関数とはあるデータを受け取り、定められた独自の処理を実行し、その結果を返す命令のことです。
@@ -41,3 +42,26 @@ async def 名前(引数):
 def test():
     #print("hello world")
     print("Hello World!")
+
+async def test():
+    await asyncio.sleep(3)
+
+
+#データ型
+"""
+Pythonにはさまざまなデータ型があります。
+str() → 文字列 'aiueo'
+int() → 整数, 数値 5
+float() → 浮動小数値, 小数 1.3
+dict() → 辞書型 {}
+list() → リスト型 []
+tuple() → タプル型 ()
+bool() → 真偽値 True False
+"""
+str() == "aiueo"
+int() == 1
+float() == 2.3
+dict() == {}
+list() == []
+tuple() == ()
+bool() == True, False

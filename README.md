@@ -1,2 +1,3 @@
-# Python_Lession_1
-Pythonレッスン1
+# Python_Lession
+みどりによるわからない人のためのみどりによるPythonレッスン
+ガバガバなのでそんなに当てにしないほうがいいよ！

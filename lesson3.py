@@ -2,7 +2,6 @@
 
 """
 1. ターミナルに Hello world! を出力するプログラムを書こう！
-
 ヒント: def, print(), if, __name__, '__main__'
 
 答えはここから↓
@@ -10,3 +9,11 @@ https://github.com/midorichaan/Python_Lesson/basic/helloworld.py
 """
 
 
+"""
+2. range関数を使用して0から30までの間で好きなだけ出力してみよう！
+- これができたら倍数もトライ！！
+ヒント: range, print, def, if, __name__, '__main__'
+
+答えはここから↓
+https://github.com/midorichaan/Python_Lesson/basic/range_integer.py
+"""

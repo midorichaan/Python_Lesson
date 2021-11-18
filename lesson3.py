@@ -11,7 +11,7 @@ https://github.com/midorichaan/Python_Lesson/basic/helloworld.py
 
 
 """
-2. range関数を使用して0から30までの間で好きなだけ出力してみよう！
+2. 関数を使ってrange関数を使用して0から30までの間で好きなだけ出力するプログラムを書こう！
 - これができたら倍数もトライ！！
 ヒント: range, print, def, if, __name__, '__main__'
 

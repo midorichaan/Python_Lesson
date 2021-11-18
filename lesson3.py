@@ -18,3 +18,9 @@ https://github.com/midorichaan/Python_Lesson/basic/helloworld.py
 答えはここから↓
 https://github.com/midorichaan/Python_Lesson/basic/range_integer.py
 """
+
+
+"""
+3. 自由！lesson1から3を振り返って好きなプログラムを書いてみよう！
+- ifやfor、外部ライブラリを使ったものでも可
+"""
